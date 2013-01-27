@@ -1,0 +1,19 @@
+"ID"	"Type"	"Label"	"Parent1"	"Parent2"
+0	0	"Type"		
+1	0	"Processus"		
+2	0	"Groupe de processus"		
+3	0	"Domaine de connaissance"		
+4	0	"Donnée d'entrée"		
+5	0	"Outil et technique"		
+6	0	"Donnée de sortie"		
+7	0	"Mise à jour"		
+8	3	"Gestion de l'intégration du projet"		
+9	2	"Groupe de processus de démarrage"		
+10	1	"Élaborer la charte de projet"	8	9
+11	4	"Énoncé des travaux du projet"	10	
+12	4	"Étude économique"	10	
+13	4	"Contrat"	10	
+14	4	"Facteurs environnementaux de l'entreprise"	10	
+15	4	"Actifs organisationnels"	10	
+16	5	"Jugement d'expert "	10	
+17	6	"Charte du projet"	10	
