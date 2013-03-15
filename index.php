@@ -52,6 +52,7 @@ case 1: askTypeOfNotParent(); break;
 
 
 
+#3. Xi se trouve dans le Tp de ...
 function askWhatIsMyParent($rawData) {
 	// For this question, the item must have a parent 
 	$itemSatisfactory = FALSE;
